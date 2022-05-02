@@ -1,0 +1,4 @@
+chromedriver-py==89.0.4389.23
+pause==0.3
+schedule==1.0.0
+selenium==3.141.0
